@@ -1,6 +1,6 @@
 # Combining Long Short-term Memory and Attention Models in Sentiment Analysis
 ---
-This project will This project will show how to use IMDb review data and Combining Long Short-term Memory and Attention Models in Sentiment Analysis.
+This project will show how to use IMDb review data and Combining Long Short-term Memory and Attention Models in Sentiment Analysis.
 
 + ### Step1. Data collection
     + #### crawler
